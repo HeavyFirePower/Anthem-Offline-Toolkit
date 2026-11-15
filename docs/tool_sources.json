@@ -1,0 +1,80 @@
+[
+  {
+    "path": "output/DirectXTex-2026.5.8.1.nupkg",
+    "url": "https://api.nuget.org/v3-flatcontainer/directxtex_desktop_win10/2026.5.8.1/directxtex_desktop_win10.2026.5.8.1.nupkg",
+    "sha256": "1f5a0a3d4a5cd6bd12966891df9d79fb0b3ae5ef7b90811c70dfaeab3898b3de",
+    "bytes": 22221230
+  },
+  {
+    "path": "output/vgmstream-win64.zip",
+    "url": "https://github.com/vgmstream/vgmstream/releases/download/r2168/vgmstream-win64.zip",
+    "sha256": "692d45070852a35c1fa42726aa3c9de528e44eec925d37d99b1074256b99a229",
+    "bytes": 4574355
+  },
+  {
+    "path": "vendor/vgmstream/COPYING",
+    "url": "https://github.com/vgmstream/vgmstream/blob/r2168/COPYING",
+    "sha256": "fcc26d35c4c4365e31f21734f846e4ee362ff0b57ba696085605a7b4768d8763",
+    "bytes": 1314
+  },
+  {
+    "path": "vendor/anthemtool/LICENSE.md",
+    "url": "https://github.com/xyrin88/anthemtool/tree/a2fec1ac0b596765c9d1f620d9167353a1b39582",
+    "sha256": "b884dad41b3006735bbb7f29ac2337360887614b70abd3a71ece2c7efbe5f60b",
+    "bytes": 1086
+  },
+  {
+    "path": "vendor/DirectXTex/texconv.exe",
+    "url": "https://github.com/microsoft/DirectXTex/releases/download/may2026/texconv.exe",
+    "sha256": "dcfdec10244e02cf5037fba089c55fb7e1326b1c8181742d77d15fa5cb5eef06",
+    "bytes": 966480
+  },
+  {
+    "path": "vendor/DirectXTex/LICENSE",
+    "url": "https://github.com/microsoft/DirectXTex/blob/may2026/LICENSE",
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "bytes": 1141
+  },
+  {
+    "path": "output/AnthemAssetLoader.cs",
+    "url": "https://raw.githubusercontent.com/CadeEvs/FrostyToolsuite/master/FrostySdk/Managers/Loaders/AnthemAssetLoader.cs",
+    "sha256": "dd45e265b37a90cf91e7a781ee3c409dd1566a04561eb9ccf48c6a09a8ad1cb9",
+    "bytes": 29024
+  },
+  {
+    "path": "output/Texture.cs",
+    "url": "https://raw.githubusercontent.com/CadeEvs/FrostyToolsuite/1.0.6.3/FrostySdk/Resources/Texture.cs",
+    "sha256": "79698c0b9ca777439676a439285159846c0a4b52365c818a92c7f0f23e7834fe",
+    "bytes": 13766
+  },
+  {
+    "path": "output/AnthemSDK.dll",
+    "url": "https://raw.githubusercontent.com/CadeEvs/FrostyToolsuite/1.0.6.3/FrostySdk/Profiles/AnthemSDK.dll",
+    "sha256": "69655c34d8112b6e5951bf7f108a42b84ec4dd39d3889435fe3ade7a38ebdf9c",
+    "bytes": 12119040
+  },
+  {
+    "path": "output/MeshSet.cs",
+    "url": "https://raw.githubusercontent.com/CadeEvs/FrostyToolsuite/1.0.6.3/Plugins/MeshSetPlugin/Resources/MeshSet.cs",
+    "sha256": "fddaffdce72a527b6b9570eb6f77e429777f54708d0b9ffcff431716e6cb2647",
+    "bytes": 83751
+  },
+  {
+    "path": "output/EbxReader.cs",
+    "url": "https://raw.githubusercontent.com/CadeEvs/FrostyToolsuite/1.0.6.3/FrostySdk/IO/EbxReader.cs",
+    "sha256": "e3520502795d5be6b69dedbaa24827523b48613b8428092ef290c5eaf0ac01c6",
+    "bytes": 59371
+  },
+  {
+    "path": "output/FrostyMeshSetEditor.cs",
+    "url": "https://raw.githubusercontent.com/CadeEvs/FrostyToolsuite/1.0.6.3/Plugins/MeshSetPlugin/FrostyMeshSetEditor.cs",
+    "sha256": "73766ad35c72f39ace1f945e37586d34ffe079af80c435d43a9167649397aa3e",
+    "bytes": 217917
+  },
+  {
+    "path": "output/FrostyUtils.cs",
+    "url": "https://raw.githubusercontent.com/CadeEvs/FrostyToolsuite/1.0.6.3/FrostySdk/Utils.cs",
+    "sha256": "85f5bc12e90f5f91ac2261c504cbd3b59cdce48e054f3e2b162cf2ef00de30c7",
+    "bytes": 48956
+  }
+]
